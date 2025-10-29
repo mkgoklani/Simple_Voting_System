@@ -438,5 +438,4 @@ For questions, issues, or support:
 
 ## Contract Details
 CDXZSHCWTWRMUPOSPUN3GZQIVBTES7ST67CFU3L6CWCTDTBY5KB54JOF
-![alt text](<Screenshot 2025-10-29 at 3.38.56 PM.png>)
-# Simple_Voting_System
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ba11ed2a-407a-430b-ba22-febd56d44c1f" />
