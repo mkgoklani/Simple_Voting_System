@@ -1,0 +1,25 @@
+{
+  "name": "voting-dapp-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Stellar Voting dApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "stellar",
+    "soroban",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^13.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "pg": "^8.16.3",
+    "soroban-client": "^1.0.1"
+  }
+}
